@@ -27,7 +27,8 @@ let carName= 'Mercedes';
 carName='RollsRoyce';
 console.log(carName)
 }
-
+// here in var and let we changed the name but in const we cant changed  Name 
+// With let we make a local variable
 
 
 
